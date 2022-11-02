@@ -11,6 +11,7 @@ ___
 - сильно люблю программирование 👨‍💻
 - люблю снимать природу на свой Canon EOS M50 📸
  
+**Контакты**
 
 
 ### Технологии, которые я использую:
@@ -30,11 +31,8 @@ ___
 ____
 ### Моя статистика:
 
-<div style="display: flex; gap: 10px;">
-<div style="width: 50%; display: flex; flex-direction: column; justify-content: space-evenly";>
-    <img align="center" style="width: 100%"  src="https://github-readme-stats.vercel.app/api?username=IvanMonichev&show_icons=true&theme=default" />
-    <img align="center" style="width: 100%"  src="https://github-readme-stats.vercel.app/api/pin/?username=IvanMonichev&repo=movies-explorer-frontend" />
-    <img align="center" style="width: 100%"  src="https://github-readme-stats.vercel.app/api/wakatime?username=IvanMonichev" />
-</div>
-<img align="center" style="width: 50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanMonichev&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanMonichev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanMonichev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanMonichev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMonichev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMonichev&theme=default&utcOffset=8)

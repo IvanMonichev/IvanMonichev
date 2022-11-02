@@ -13,6 +13,8 @@ ___
  
 **Контакты**
 
+- E-Mail: <a href="mailto:ivan@monichev.ru">ivan@monichev.ru</a>
+- Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
 ### Технологии, которые я использую:
 
@@ -31,8 +33,14 @@ ___
 ____
 ### Моя статистика:
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanMonichev&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanMonichev&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanMonichev&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMonichev&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMonichev&theme=default&utcOffset=8)
+<img width="99.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IvanMonichev&theme=default">
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IvanMonichev&theme=default"> 
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IvanMonichev&theme=default">
+</div>
+
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=IvanMonichev&theme=default"> 
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IvanMonichev&theme=default&utcOffset=8">
+</div>

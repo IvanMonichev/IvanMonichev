@@ -16,18 +16,7 @@
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
 ### Технологии, которые я использую:
-- HTML5
-- PUG
-- CSS3
-- SASS
-- JavaScript
-- React
-- Express.js
-- MongoDB
-- Nginx
-- Git
-- Webpack
-- Gulp
+HTML5, PUG, CSS3, SASS, JavaScript, React, Express.js, MongoDB, Nginx, Git, Webpack, Gulp
 
 ____
 ### Моя статистика:

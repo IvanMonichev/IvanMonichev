@@ -20,7 +20,7 @@
 - [mbil-conf.ru](https://mbil-conf.ru/)
 
 ### Технологии, которые я использую:
-HTML, CSS, PUG, SASS, JavaScript, React, Gulp, WebPack, Express JS, Mongo DB
+HTML, CSS, PUG, SASS, JavaScript, React, Gulp, WebPack, PHP, Express JS, Mongo DB
 ____
 ### Моя статистика:
 

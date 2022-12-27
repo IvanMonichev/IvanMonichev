@@ -16,8 +16,10 @@
 - E-Mail: <a href="mailto:ivan@monichev.ru">ivan@monichev.ru</a>
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
-**Мои коммерческие проекты**:
-- [mbil-conf.ru](https://mbil-conf.ru/)
+**Мои лучшие работы**:
+- [mbil-conf.ru](https://mbil-conf.ru/) – коммерческий проект.
+- [best-film.monichev-id.ru](https://best-film.monichev-id.ru/) – дипломный проект.
+
 
 ### Технологии, которые я использую:
 HTML, CSS, PUG, SASS, JavaScript, React, Gulp, WebPack, PHP, Express JS, Mongo DB

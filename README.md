@@ -18,7 +18,7 @@
 
 **Мои лучшие работы**:
 - [mbil-conf.ru](https://mbil-conf.ru/) – коммерческий проект.
-- [best-film.monichev-id.ru](https://best-film.monichev-id.ru/) – дипломный проект.
+- [best-film.monichev-id.ru](https://best-film.monichev-id.ru/) – учебный проект на React JS.
 
 
 ### Технологии, которые я использую:

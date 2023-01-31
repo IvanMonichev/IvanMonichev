@@ -19,6 +19,7 @@
 **Мои лучшие работы**:
 - [mbil-conf.ru](https://mbil-conf.ru/) – коммерческий проект.
 - [best-film.monichev-id.ru](https://best-film.monichev-id.ru/) – учебный проект на React JS.
+- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady/) – одностраничный сайт школы английского языка.
 
 
 ### Технологии, которые я использую:

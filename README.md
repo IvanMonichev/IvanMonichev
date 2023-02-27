@@ -18,7 +18,7 @@
 **Мои лучшие работы**:
 - [mbil-conf.ru](https://mbil-conf.ru/) – коммерческий проект.
 - [best-film.monichev-id.ru](https://best-film.monichev-id.ru/) – учебный проект на React JS.
-- [vanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — веб-приложение разработанное на JavaScript с применением архитектурного патерна MVP и парадигмы ООП.
+- [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — веб-приложение разработанное на JavaScript с применением архитектурного патерна MVP и парадигмы ООП.
 - [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady/) – одностраничный сайт школы английского языка.
 
 

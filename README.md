@@ -6,11 +6,11 @@
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
 **Мои работы**:
-- [github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room] — SPA-проект. React, TS и Redux.
+- [github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room) — SPA-проект. React, TS и Redux.
 - [github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — SPA-проект. React, TS и Redux.
 - [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — SPA-проект. JavaScript, MVP.
 - [mbil-conf.ru](https://mbil-conf.ru/) – лендиинг (коммерческий проект). HTML, CSS, JavaScrript, PHP.
-- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady/) — лендиинг. HTML, CSS, JavaScrript.
+- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — лендиинг. HTML, CSS, JavaScrript.
 
 
 

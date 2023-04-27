@@ -6,10 +6,12 @@
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
 **Мои работы**:
-- [mbil-conf.ru](https://mbil-conf.ru/) – коммерческий проект.
-- [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — веб-приложение разработанное на JavaScript с применением архитектурного патерна MVP и парадигмы ООП.
-- [github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — учебный проект на React, TS и Redux.
-- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady/) – одностраничный сайт школы английского языка.
+- [github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room] — SPA-проект. React, TS и Redux.
+- [github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — SPA-проект. React, TS и Redux.
+- [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — SPA-проект. JavaScript, MVP.
+- [mbil-conf.ru](https://mbil-conf.ru/) – лендиинг (коммерческий проект). HTML, CSS, JavaScrript, PHP.
+- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady/) — лендиинг. HTML, CSS, JavaScrript.
+
 
 
 ### Технологии, которые я использую:

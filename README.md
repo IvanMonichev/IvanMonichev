@@ -15,7 +15,9 @@
 
 
 ### Технологии, которые я использую:
+
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
+
 Backend: Node JS, Express JS, Mongo DB, SQL, PHP.
 ____
 ### Моя статистика:

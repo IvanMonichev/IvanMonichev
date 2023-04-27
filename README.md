@@ -5,7 +5,7 @@
 - E-Mail: <a href="mailto:ivan@monichev.ru">ivan@monichev.ru</a>
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
-**My works*:
+**My works**:
 - [github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room) — SPA-project. React, TS и Redux.
 - [github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — SPA-project. React, TS и Redux.
 - [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — SPA-project. JavaScript, MVP.

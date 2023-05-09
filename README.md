@@ -1,6 +1,6 @@
 # Frontend developer
 
-**Contacts**
+**Contacts:**
 
 - E-Mail: <a href="mailto:ivan@monichev.ru">ivan@monichev.ru</a>
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>

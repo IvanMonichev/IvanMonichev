@@ -1,4 +1,4 @@
-# Frontend developer
+# Frontend developer, Node JS developer
 
 **Contacts:**
 
@@ -18,7 +18,7 @@
 
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
 
-Backend: Node JS, Express JS, Mongo DB, SQL, PHP.
+Backend: Node JS, Express JS, Mongo DB, SQL.
 ____
 ### My statistics:
 

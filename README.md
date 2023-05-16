@@ -1,4 +1,4 @@
-# Frontend developer, Node JS developer
+# Frontend developer, Node.js developer
 
 **Contacts:**
 
@@ -9,8 +9,9 @@
 - [ivanmonichev.github.io/escape-room](https://ivanmonichev.github.io/escape-room) — SPA-project. React, TS и Redux.
 - [github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — SPA-project. React, TS и Redux.
 - [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — SPA-project. JavaScript, MVP.
-- [mbil-conf.ru](https://mbil-conf.ru/) – landing page (commercial project). HTML, CSS, JavaScrript, PHP.
-- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — landing page. HTML, CSS, JavaScrript.
+- [mbil-conf.ru](https://mbil-conf.ru/) – landing page (commercial project). HTML (pug), CSS (sass), JavaScrript, PHP.
+- [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — landing page. HTML (pug), CSS (sass), JavaScrript.
+- [ivanmonichev.github.io/maroon-shop/](https://ivanmonichev.github.io/maroon-shop/) — landing page. HTML (pug), CSS (sass), JavaScript (jQuery).
 
 
 

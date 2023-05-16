@@ -1,4 +1,4 @@
-# Frontend developer, Node.js developer
+# Frontend developer, Node JS developer
 
 **Contacts:**
 

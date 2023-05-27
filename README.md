@@ -1,4 +1,4 @@
-# Frontend developer
+# Front-end developer
 
 **Contacts:**
 

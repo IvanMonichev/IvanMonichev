@@ -19,7 +19,7 @@
 
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
 
-Backend: Node JS, Express JS, Mongo DB, MySQL, PHP, Laravel.
+Backend: Nest JS, Node JS, Express JS, Mongo DB.
 ____
 ### My statistics:
 

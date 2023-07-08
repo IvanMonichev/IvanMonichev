@@ -1,11 +1,12 @@
 # Frontend Developer
 
-**Contacts:**
+##Contacts
 
 - E-Mail: <a href="mailto:ivan@monichev.ru">ivan@monichev.ru</a>
 - Telegram: <a href="https://t.me/ivan_monichev">@ivan_monichev</a></p>
 
-**My works**
+##My works
+
 - [ivanmonichev.github.io/escape-room](https://ivanmonichev.github.io/escape-room) — SPA-project. React, TypeScript, Redux.
 - [ivanmonichev.github.io/six-cities/](https://ivanmonichev.github.io/six-cities/) — SPA-project. React, TypeScript, Redux.
 - [ivanmonichev.github.io/big-trip/](https://ivanmonichev.github.io/big-trip/) — SPA-project. JavaScript, MVP.
@@ -13,13 +14,13 @@
 - [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — landing page. HTML (pug), CSS (sass), JavaScrript.
 - [ivanmonichev.github.io/maroon-shop/](https://ivanmonichev.github.io/maroon-shop/) — landing page. HTML (pug), CSS (sass), JavaScript (jQuery).
 
-**Technologies**
+##Technologies
 
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
 
 Backend: PHP, Laravel, Node JS, Express JS, MySQL, Mongo DB.
 
-**About me**
+##About me
 
 Hi there! 
 

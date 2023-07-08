@@ -13,13 +13,18 @@
 - [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — landing page. HTML (pug), CSS (sass), JavaScrript.
 - [ivanmonichev.github.io/maroon-shop/](https://ivanmonichev.github.io/maroon-shop/) — landing page. HTML (pug), CSS (sass), JavaScript (jQuery).
 
-
-
 ### Technologies:
 
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
 
 Backend: PHP, Laravel, Node JS, Express JS, MySQL, Mongo DB.
+
+Hi there! 
+
+My name is Ivan, and I'm excited to welcome you to my GitHub account. I'm 26 years old and I live in the beautiful city of Saint Petersburg. My main focus is frontend development using React. I'm passionate about creating interactive and visually appealing user interfaces.
+
+Currently, I'm also learning PHP and Laravel to broaden my skill set and be more versatile in the web development industry. I believe that combining frontend with React and backend knowledge with PHP and Laravel will enable me to create robust and feature-rich web applications.
+
 ____
 ### My statistics:
 

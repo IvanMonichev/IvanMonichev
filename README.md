@@ -19,6 +19,8 @@ Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebP
 
 Backend: PHP, Laravel, Node JS, Express JS, MySQL, Mongo DB.
 
+### About me
+
 Hi there! 
 
 My name is Ivan, and I'm excited to welcome you to my GitHub account. I'm 26 years old and I live in the beautiful city of Saint Petersburg. My main focus is frontend development using React. I'm passionate about creating interactive and visually appealing user interfaces.

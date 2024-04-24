@@ -7,7 +7,7 @@
 
 ### My works
 
-- [https://github.com/IvanMonichev/escape-rooma](https://github.com/IvanMonichev/escape-rooma) — SPA-project. React, TypeScript, Redux.
+- [https://github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room) — SPA-project. React, TypeScript, Redux.
 - [https://github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — SPA-project. React, TypeScript, Redux.
 - [github.com/IvanMonichev/movies-explorer](https://github.com/IvanMonichev/movies-explorer) — SPA-project with backend. React, HTML, CSS, ExpressJS, MongoDB.
 - [https://github.com/IvanMonichev/big-trip](https://github.com/IvanMonichev/big-trip) — SPA-project. JavaScript, MVP.

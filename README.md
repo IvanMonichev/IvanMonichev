@@ -16,12 +16,13 @@
 - [ivanmonichev.github.io/clever-bady/](https://ivanmonichev.github.io/clever-bady) — landing page. HTML (pug), CSS (sass), JavaScrript.
 - [ivanmonichev.github.io/maroon-shop/](https://ivanmonichev.github.io/maroon-shop/) — landing page. HTML (pug), CSS (sass), JavaScript (jQuery).
 - [ivanmonichev.github.io/russian-travel/](https://ivanmonichev.github.io/russian-travel/) — landing page. HTML, CSS.
+- [https://github.com/IvanMonichev/1338701-readme-6](https://github.com/IvanMonichev/1338701-readme-6) – the Nest.js project employs a microservice architecture, with each service dedicated to a specific task, and utilizes MongoDB and PostgreSQL as its databases.
 
 ### Technologies
 
 Frontend: HTML, CSS, PUG, SASS, JavaScript, TypeScript, React, Redux, Gulp, WebPack.
 
-Backend: nestJS, nodeJS, expressJS, postgreSQL, MongoDB, PHP, Laravel.
+Backend: nest.js, nodeJS, express.js, postgreSQL, MongoDB, PHP, Laravel.
 
 ____
 ### My statistics:

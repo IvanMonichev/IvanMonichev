@@ -7,6 +7,7 @@
 
 ### My works
 
+- [https://ivanmonichev.github.io/scopus-seeker/](https://ivanmonichev.github.io/scopus-seeker/) – the service designed to simplify the search for academic articles on Scopus.
 - [https://github.com/IvanMonichev/1338701-readme-6](https://github.com/IvanMonichev/1338701-readme-6) – the backend project employs a microservice architecture using Nest.js, with each service dedicated to a specific task, and utilizes MongoDB and PostgreSQL as its databases.
 - [https://github.com/IvanMonichev/escape-room](https://github.com/IvanMonichev/escape-room) — the SPA-project. React, TypeScript, Redux.
 - [https://github.com/IvanMonichev/six-cities](https://github.com/IvanMonichev/six-cities) — the SPA-project. React, TypeScript, Redux.

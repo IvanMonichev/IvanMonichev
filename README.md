@@ -1,4 +1,12 @@
-# Frontend Developer
+# Fullstack Developer
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=react,ts,js,html,css,vite,redux)
+
+**Backend**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,go,mongodb)
 
 ### Contacts
 
